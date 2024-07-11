@@ -14,7 +14,7 @@ URLS = {
     (
         "general",
         "parameters",
-    ): f"https://raw.githubusercontent.com/uparma/uparma-lib/master/jsons/parameters.json",
+    ): f"https://raw.githubusercontent.com/valentin-petzold/uparma-lib/feature/add_cellranger_params/jsons/parameters.json",
     # f"https://raw.githubusercontent.com/uparma/uparma-lib/v{uparma.__lib_version__}/jsons/parameters.json",
     (
         "general",
